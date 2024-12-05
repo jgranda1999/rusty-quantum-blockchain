@@ -1,0 +1,12 @@
+# Binaries
+target/
+
+# Temporary files
+*.rs.bk
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
