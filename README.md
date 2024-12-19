@@ -69,7 +69,7 @@ quantum-blockchain/
 ![Nonce Distribution: Quantum vs Classical](./plots/nonce_distribution.png)
 
 ## How It Works
-1. **QRNG Integration**: Fetches quantum random numbers using the [Australian National University QRNG API](https://qrng.anu.edu.au/).
+1. **QRNG Integration**: Fetches quantum random numbers using the [Australian National University QRNG API](https://quantumnumbers.anu.edu.au/).
 2. **Mining Process**: Alternates between quantum and classical randomness for nonce selection.
 3. **Performance Logging**: Captures metrics such as iterations, duration, and source of randomness.
 4. **Data Analysis**: Uses Python to analyze and visualize the logged data.
@@ -87,7 +87,6 @@ This project demonstrates the practical application of QRNG in blockchain techno
 
 ## Contributions
 - **Author**: Jonathan Granda Acaro
-- **Mentors/Contributors**: [Add names if applicable]
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for more details.
