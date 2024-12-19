@@ -1,0 +1,20 @@
+Block 1 mined with nonce: 24822 in 112 iterations and took 2.534399ms
+Block added successfully.
+Block 2 mined with nonce: 10139 in 387 iterations and took 4.226166ms
+Block added successfully.
+Block 3 mined with nonce: 25267 in 432 iterations and took 5.168095ms
+Block added successfully.
+Block 4 mined with nonce: 6185 in 187 iterations and took 4.325521ms
+Block added successfully.
+Block 5 mined with nonce: 45090 in 91 iterations and took 1.003823ms
+Block added successfully.
+Block 6 mined with nonce: 5531 in 374 iterations and took 4.294856ms
+Block added successfully.
+Block { index: 0, timestamp: 1734592200, data: "Dr. Kogge buys Ancient Aliens Live T-shirt for 20 USD.", previous_hash: "0", nonce: 0, hash: "4d81348416deada18a0f403f9d1894f405700117dc2272c49e3881516292edea" }
+Block { index: 1, timestamp: 1734592200, data: "Dr. Kogge sells his Ancient Aliens Live T-shirt for 10 BTC to Jonathan.", previous_hash: "4d81348416deada18a0f403f9d1894f405700117dc2272c49e3881516292edea", nonce: 24822, hash: "0061001f3fd8220ab729427185282d8172f29212f59e81b670e4708145c90285" }
+Block { index: 2, timestamp: 1734592200, data: "Jonathan sells the Ancient Aliens Live T-shirt for 1000 BTC on Ebay", previous_hash: "0061001f3fd8220ab729427185282d8172f29212f59e81b670e4708145c90285", nonce: 10139, hash: "00a3fa8435001f785b0e3603469a109314b37f6094366d136d44de21692d6c04" }
+Block { index: 3, timestamp: 1734592200, data: "The Ancient Aliens Live T-shirt is sold for 1,000,000 BTC in an auction to the Smithsonian", previous_hash: "00a3fa8435001f785b0e3603469a109314b37f6094366d136d44de21692d6c04", nonce: 25267, hash: "00b62876a37d8c0648fdb5ff665f66978009f389323ad69499dcf7fdf98e430a" }
+Block { index: 4, timestamp: 1734592200, data: "The Smithsonian trades the Acient Aliens Live T-shirt for Mars with the Martians", previous_hash: "00b62876a37d8c0648fdb5ff665f66978009f389323ad69499dcf7fdf98e430a", nonce: 6185, hash: "00b91fdf3ea9a8d51815ee63e0afbb4f2dbab057bedf9cdb1949d0994783baf2" }
+Block { index: 5, timestamp: 1734592200, data: "The Martians trade the Ancient Aliens Live T-shirt for the Death Star with Darth Vader", previous_hash: "00b91fdf3ea9a8d51815ee63e0afbb4f2dbab057bedf9cdb1949d0994783baf2", nonce: 45090, hash: "00a39222d4da35436112ce29355d7789cff4eabfced26a5895fc7139cd60fb9d" }
+Block { index: 6, timestamp: 1734592200, data: "Darth Vader trades the Ancient Aliens Live T-shirt to beat Obi-Wan Kenobi in a lightsaber duel", previous_hash: "00a39222d4da35436112ce29355d7789cff4eabfced26a5895fc7139cd60fb9d", nonce: 5531, hash: "004e948d6443f01edd309a1f35a6688261b9ce796872c0f0c6d7f0c34a1c84d0" }
+Is the blockchain valid? true
